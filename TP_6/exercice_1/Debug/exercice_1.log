@@ -1,0 +1,6 @@
+﻿  liste.c
+  outil.c
+D:\Acer\Downloads\Squelette-v3.0\outil.c(27,6): warning C4101: 'idx' : variable locale non référencée
+  rep.c
+  Génération de code en cours...
+  exercice_1.vcxproj -> C:\Users\Acer\source\repos\TP_6\Debug\exercice_1.exe
